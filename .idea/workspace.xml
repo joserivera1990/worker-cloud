@@ -49,8 +49,8 @@
       <file leaf-file-name="application.conf" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="140" selection-start-line="140" selection-end-line="140" />
+            <state relative-caret-position="191">
+              <caret line="126" selection-start-line="126" selection-end-line="127" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -105,8 +105,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1949" />
-    <option name="y" value="341" />
+    <option name="x" value="1674" />
+    <option name="y" value="240" />
     <option name="width" value="1301" />
     <option name="height" value="772" />
   </component>
@@ -264,12 +264,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524414622090</updated>
-      <workItem from="1524414625796" duration="11470000" />
+      <workItem from="1524414625796" duration="13427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11470000" />
+    <option name="totallyTimeSpent" value="13427000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -305,7 +305,7 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.8741036" visible="true" weight="0.42589703" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.8741036" visible="true" weight="0.33541343" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35139441" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -522,8 +522,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        <state relative-caret-position="191">
+          <caret line="126" selection-start-line="126" selection-end-line="127" selection-end-column="67" />
         </state>
       </provider>
     </entry>
